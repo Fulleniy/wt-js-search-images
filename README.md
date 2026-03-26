@@ -1,2 +1,2 @@
 # wt-js-search-images
-Лабораторна робота 6: Взаємодія з бекендом - CRUD операції. HTTP-запити. Fetch API. Пагінація
+[Завдання](https://natalia-vitaliivna.gitbook.io/js-practice/vzayemodiya-z-bekendom-crud-operaciyi.-http-zapiti.-fetch-api.-paginaciya.?authuser=1&hl=ru)
